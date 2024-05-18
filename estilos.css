@@ -30,7 +30,7 @@ nav a{
 .sec1{
     padding-bottom: 250px;
     margin-top: 45px;
-    background-image: url(img/fundo.jpg);
+    background-image: url(https://github.com/WellissonVitor/entrelaco/blob/main/img/fundo.jpg?raw=true);
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -65,7 +65,7 @@ nav a{
     text-align: center;
 }
 .sec3 .background{
-    background-image: url(../Entrelaço\ Games/img/capa2.jpg);
+    background-image: url(https://github.com/WellissonVitor/entrelaco/blob/main/img/capa2.jpg?raw=true);
     width: 100%;
     height: 1000px;
 }
